@@ -1,11 +1,11 @@
 <h1 align="center">Projeto Integrador - Library</h1> 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png" width="100">
-</p>
+
 
 <p align="center">
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=orange&style=for-the-badge"/>
 </p>
+
 
 # Índice 
 
@@ -46,8 +46,27 @@ Tecnologias Utilizadas 🖥️
         <sub>Vitória Magar Kamizono</sub>
       </a>
     </td>
-   
+    <td align="center">
+      <a href="https://github.com/EstGui">
+        <img loading="lazy" src="https://avatars.githubusercontent.com/u/115667593?v=4" width=115 alt="Guilherme Esteves">
+        <br>
+        <sub>Guilherme Esteves</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ViniciusQueiroz327">
+        <img loading="lazy" src="https://avatars.githubusercontent.com/u/81514002?v=4" width=115 alt="Vinicius Silva Queiroz">
+        <br>
+        <sub>Vinicius Silva Queiroz</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HardDavis">
+        <img loading="lazy" src="https://avatars.githubusercontent.com/u/101614735?v=4" width=115 alt="Davi Macedo Mendes">
+        <br>
+        <sub>Davi Macedo Mendes</sub>
       </a>
     </td>
   </tr>
 </table>
+
